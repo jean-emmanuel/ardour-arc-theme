@@ -164,7 +164,7 @@
     <ColorAlias name="gtk_somewhat_bright_indicator" alias="theme:contrasting alt"/>
     <ColorAlias name="gtk_texts" alias="neutral:foreground"/>
     <ColorAlias name="gtk_track_header_inactive" alias="theme:bg"/>
-    <ColorAlias name="gtk_track_header_selected" alias="widget:ruddy"/>
+    <ColorAlias name="gtk_track_header_selected" alias="widget:bg"/>
     <ColorAlias name="image track" alias="neutral:foreground2"/>
     <ColorAlias name="inactive crossfade" alias="theme:contrasting"/>
     <ColorAlias name="inactive fade handle" alias="neutral:foreground2"/>
