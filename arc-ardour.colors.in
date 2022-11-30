@@ -10,7 +10,7 @@
     <Color name="alert:ruddy" value="arc-red"/>
     <Color name="alert:yellow" value="arc-yellow"/>
     <Color name="theme:bg" value="arc-background"/>  <!--gtk_background-->
-    <Color name="theme:bg1" value="arc-background"/>  <!--gtk_audio_track-->
+    <Color name="theme:bg1" value="arc-background-alt"/>  <!--gtk_audio_track-->
     <Color name="theme:bg2" value="arc-background-dark"/>  <!--ruler base-->
     <Color name="theme:contrasting" value="arc-red"/>  <!--play head-->
     <Color name="theme:contrasting clock" value="arc-green"/>  <!--clock: text-->

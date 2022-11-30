@@ -3,6 +3,7 @@ import re
 colors = {
     'arc-background-dark': '#171a1d',
     'arc-background': '#2E3440',
+    'arc-background-alt': '#282d38',
     'arc-foreground': '#3B4252',
     'arc-text': '#D8DEE9',
     'arc-text-dark': '#9ea2ab',
