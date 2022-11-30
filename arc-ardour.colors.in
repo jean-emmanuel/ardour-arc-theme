@@ -17,7 +17,7 @@
     <Color name="theme:contrasting less" value="arc-blue"/>
     <Color name="theme:contrasting selection" value="arc-blue"/>  <!--gtk_bg_selected-->
     <Color name="theme:contrasting alt" value="arc-green"/>  <!--delta clock , clock edit-->
-    <Color name="neutral:backgroundest" value="arc-background"/>  <!--border Color-->
+    <Color name="neutral:backgroundest" value="arc-background-dark"/>  <!--border Color-->
     <Color name="neutral:background" value="arc-background-dark"/>  <!--audio track base-->
     <Color name="neutral:background2" value="arc-foreground"/>  <!--range marker bar-->
     <Color name="neutral:midground" value="arc-text-darker"/>  <!--grid line minor-->

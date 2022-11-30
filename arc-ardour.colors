@@ -17,7 +17,7 @@
     <Color name="theme:contrasting less" value="5E81ACff"/>
     <Color name="theme:contrasting selection" value="5E81ACff"/>  <!--gtk_bg_selected-->
     <Color name="theme:contrasting alt" value="8cbe8cff"/>  <!--delta clock , clock edit-->
-    <Color name="neutral:backgroundest" value="2E3440ff"/>  <!--border Color-->
+    <Color name="neutral:backgroundest" value="171a1dff"/>  <!--border Color-->
     <Color name="neutral:background" value="171a1dff"/>  <!--audio track base-->
     <Color name="neutral:background2" value="3B4252ff"/>  <!--range marker bar-->
     <Color name="neutral:midground" value="707379ff"/>  <!--grid line minor-->
@@ -29,10 +29,10 @@
     <Color name="neutral:grid-minor" value="707379ff"/>
     <Color name="widget:bg" value="3B4252ff"/>    <!--generic button-->
     <Color name="widget:blue" value="5E81ACff"/>  <!--processor fader: fill-->
-    <Color name="widget:blue darker" value="30384cff"/>  <!--gtk_audio_bus-->
+    <Color name="widget:blue darker" value="222835ff"/>  <!--gtk_audio_bus-->
     <Color name="widget:gray" value="757980ff"/>  <!--gtk_processor fader-->
     <Color name="widget:green" value="8cbe8cff"/>  <!--gtk processor postfader,  gtk_midi_track-->
-    <Color name="widget:green darker" value="314441ff"/>  <!--midi track base-->
+    <Color name="widget:green darker" value="293838ff"/>  <!--midi track base-->
     <Color name="widget:orange" value="D08770ff"/>  <!--tempo marker-->
     <Color name="widget:ruddy" value="BF616Aff"/>  <!--processor prefader-->
     <Color name="widget:yellow" value="EBCB8Bff"/> <!-- VU meter outline -->
