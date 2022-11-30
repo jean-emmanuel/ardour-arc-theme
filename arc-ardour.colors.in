@@ -20,7 +20,7 @@
     <Color name="neutral:backgroundest" value="arc-background"/>  <!--border Color-->
     <Color name="neutral:background" value="arc-background-dark"/>  <!--audio track base-->
     <Color name="neutral:background2" value="arc-foreground"/>  <!--range marker bar-->
-    <Color name="neutral:midground" value="arc-text-dark"/>  <!--grid line minor-->
+    <Color name="neutral:midground" value="arc-text-darker"/>  <!--grid line minor-->
     <Color name="neutral:foreground2" value="arc-text-dark"/>  <!--marker track-->
     <Color name="neutral:foreground" value="arc-text"/>  <!--gtk_foreground-->
     <Color name="neutral:foregroundest" value="arc-text-dark"/>  <!--grid line major-->

@@ -20,7 +20,7 @@
     <Color name="neutral:backgroundest" value="2E3440ff"/>  <!--border Color-->
     <Color name="neutral:background" value="171a1dff"/>  <!--audio track base-->
     <Color name="neutral:background2" value="3B4252ff"/>  <!--range marker bar-->
-    <Color name="neutral:midground" value="9ea2abff"/>  <!--grid line minor-->
+    <Color name="neutral:midground" value="707379ff"/>  <!--grid line minor-->
     <Color name="neutral:foreground2" value="9ea2abff"/>  <!--marker track-->
     <Color name="neutral:foreground" value="D8DEE9ff"/>  <!--gtk_foreground-->
     <Color name="neutral:foregroundest" value="9ea2abff"/>  <!--grid line major-->
