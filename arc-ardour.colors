@@ -4,7 +4,7 @@
     <Color name="alert:blue" value="5E81ACff"/>
     <Color name="alert:cyan" value="88C0D0ff"/>
     <Color name="alert:green" value="8cbe8cff"/>
-    <Color name="alert:greenish" value="314441ff"/>
+    <Color name="alert:greenish" value="8cbe8cff"/>
     <Color name="alert:orange" value="D08770ff"/>
     <Color name="alert:red" value="BF616Aff"/>
     <Color name="alert:ruddy" value="BF616Aff"/>

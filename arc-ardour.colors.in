@@ -4,7 +4,7 @@
     <Color name="alert:blue" value="arc-blue"/>
     <Color name="alert:cyan" value="arc-cyan"/>
     <Color name="alert:green" value="arc-green"/>
-    <Color name="alert:greenish" value="arc-green-dark"/>
+    <Color name="alert:greenish" value="arc-green"/>
     <Color name="alert:orange" value="arc-orange"/>
     <Color name="alert:red" value="arc-red"/>
     <Color name="alert:ruddy" value="arc-red"/>
