@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ardour theme-name="arc">
   <Colors>
+      <Color name="transparent" value="00000000"/>
     <Color name="alert:blue" value="5E81ACff"/>
     <Color name="alert:cyan" value="88C0D0ff"/>
     <Color name="alert:green" value="8cbe8cff"/>
-    <Color name="alert:greenish" value="8cbe8cff"/>
+    <Color name="alert:greenish" value="364036ff"/>
     <Color name="alert:orange" value="D08770ff"/>
     <Color name="alert:red" value="BF616Aff"/>
-    <Color name="alert:ruddy" value="BF616Aff"/>
+    <Color name="alert:ruddy" value="944d54ff"/>
     <Color name="alert:yellow" value="EBCB8Bff"/>
     <Color name="theme:bg" value="2E3440ff"/>  <!--gtk_background-->
-    <Color name="theme:bg1" value="282d38ff"/>  <!--gtk_audio_track-->
+    <Color name="theme:bg1" value="2E3440ff"/>  <!--gtk_audio_track-->
     <Color name="theme:bg2" value="171a1dff"/>  <!--ruler base-->
     <Color name="theme:contrasting" value="BF616Aff"/>  <!--play head-->
     <Color name="theme:contrasting clock" value="8cbe8cff"/>  <!--clock: text-->
@@ -29,12 +30,12 @@
     <Color name="neutral:grid-minor" value="707379ff"/>
     <Color name="widget:bg" value="3B4252ff"/>    <!--generic button-->
     <Color name="widget:blue" value="5E81ACff"/>  <!--processor fader: fill-->
-    <Color name="widget:blue darker" value="222835ff"/>  <!--gtk_audio_bus-->
-    <Color name="widget:gray" value="757980ff"/>  <!--gtk_processor fader-->
+    <Color name="widget:blue darker" value="263242ff"/>  <!--gtk_audio_bus-->
+    <Color name="widget:gray" value="f57980ff"/>  <!--gtk_processor fader-->
     <Color name="widget:green" value="8cbe8cff"/>  <!--gtk processor postfader,  gtk_midi_track-->
-    <Color name="widget:green darker" value="293838ff"/>  <!--midi track base-->
+    <Color name="widget:green darker" value="608260ff"/>  <!--midi track base-->
     <Color name="widget:orange" value="D08770ff"/>  <!--tempo marker-->
-    <Color name="widget:ruddy" value="BF616Aff"/>  <!--processor prefader-->
+    <Color name="widget:ruddy" value="944d54ff"/>  <!--processor prefader-->
     <Color name="widget:yellow" value="EBCB8Bff"/> <!-- VU meter outline -->
     <Color name="meter color0" value="008800ff"/>
     <Color name="meter color1" value="00aa00ff"/>
@@ -146,7 +147,7 @@
     <ColorAlias name="gtk_light_text_on_dark" alias="neutral:foreground2"/>
     <ColorAlias name="gtk_lightest" alias="neutral:foregroundest"/>
     <ColorAlias name="gtk_midi_channel_selector" alias="widget:blue"/>
-    <ColorAlias name="gtk_midi_track" alias="widget:green darker"/>
+    <ColorAlias name="gtk_midi_track" alias="alert:greenish"/>
     <ColorAlias name="gtk_monitor" alias="alert:orange"/>
     <ColorAlias name="gtk_mono" alias="neutral:foreground"/>
     <ColorAlias name="gtk_mute" alias="alert:yellow"/>
@@ -244,7 +245,7 @@
     <ColorAlias name="midi select rect outline" alias="alert:red"/>
     <ColorAlias name="midi sysex fill" alias="theme:contrasting"/>
     <ColorAlias name="midi sysex outline" alias="theme:contrasting alt"/>
-    <ColorAlias name="midi track base" alias="widget:green darker"/>
+    <ColorAlias name="midi track base" alias="alert:greenish"/>
     <ColorAlias name="mixer strip button: fill" alias="widget:bg"/>
     <ColorAlias name="mixer strip button: fill active" alias="alert:orange"/>
     <ColorAlias name="mixer strip button: led active" alias="alert:green"/>
@@ -279,7 +280,7 @@
     <ColorAlias name="mono panner position outline" alias="theme:bg"/>
     <ColorAlias name="mono panner text" alias="neutral:backgroundest"/>
     <ColorAlias name="mouse mode button: fill" alias="widget:bg"/>
-    <ColorAlias name="mouse mode button: fill active" alias="alert:greenish"/>
+    <ColorAlias name="mouse mode button: fill active" alias="alert:green"/>
     <ColorAlias name="mouse mode button: led active" alias="alert:green"/>
     <ColorAlias name="mute button: fill" alias="widget:bg"/>
     <ColorAlias name="mute button: fill active" alias="alert:yellow"/>
@@ -323,8 +324,8 @@
     <ColorAlias name="processor fader: fill" alias="widget:blue"/>
     <ColorAlias name="processor fader: fill active" alias="widget:blue"/>
     <ColorAlias name="processor fader: led active" alias="alert:green"/>
-    <ColorAlias name="processor postfader: fill" alias="widget:green"/>
-    <ColorAlias name="processor postfader: fill active" alias="widget:green"/>
+    <ColorAlias name="processor postfader: fill" alias="widget:green darker"/>
+    <ColorAlias name="processor postfader: fill active" alias="widget:green darker"/>
     <ColorAlias name="processor postfader: led active" alias="alert:green"/>
     <ColorAlias name="processor prefader: fill" alias="widget:ruddy"/>
     <ColorAlias name="processor prefader: fill active" alias="widget:ruddy"/>
@@ -380,8 +381,8 @@
     <ColorAlias name="selected midi note frame" alias="alert:ruddy"/>
     <ColorAlias name="selected region base" alias="alert:ruddy"/>
     <ColorAlias name="selected time axis frame" alias="alert:ruddy"/>
-    <ColorAlias name="selected waveform fill" alias="alert:orange"/>
-    <ColorAlias name="selected waveform outline" alias="theme:bg2"/>
+    <ColorAlias name="selected waveform fill" alias="neutral:foreground"/>
+    <ColorAlias name="selected waveform outline" alias="neutral:foreground"/>
     <ColorAlias name="selection" alias="alert:red"/>
     <ColorAlias name="selection clock: background" alias="theme:bg2"/>
     <ColorAlias name="selection clock: cursor" alias="alert:ruddy"/>
@@ -432,7 +433,7 @@
     <ColorAlias name="tempo marker" alias="widget:orange"/>
     <ColorAlias name="tempo marker music" alias="widget:orange"/>
     <ColorAlias name="time axis frame" alias="neutral:backgroundest"/>
-    <ColorAlias name="time axis view item base" alias="widget:gray"/>
+    <ColorAlias name="time axis view item base" alias="widget:bg"/>
     <ColorAlias name="time stretch fill" alias="theme:contrasting less"/>
     <ColorAlias name="time stretch outline" alias="widget:gray"/>
     <ColorAlias name="tracknumber label: fill" alias="theme:bg"/>
@@ -473,9 +474,9 @@
     <ColorAlias name="vca assign button: fill" alias="widget:bg"/>
     <ColorAlias name="verbose canvas cursor" alias="theme:contrasting clock"/>
     <ColorAlias name="video timeline bar" alias="neutral:background2"/>
-    <ColorAlias name="waveform fill" alias="neutral:foregroundest"/>
+    <ColorAlias name="waveform fill" alias="neutral:backgroundest"/>
     <ColorAlias name="waveform outline" alias="neutral:backgroundest"/>
-    <ColorAlias name="zero line" alias="neutral:midground"/>
+    <ColorAlias name="zero line" alias="transparent"/>
     <ColorAlias name="zoom button: fill" alias="widget:bg"/>
     <ColorAlias name="zoom button: fill active" alias="alert:green"/>
     <ColorAlias name="zoom button: led active" alias="alert:green"/>
@@ -513,7 +514,7 @@
     <Modifier name="silence" modifier="= alpha:0.4784"/>
     <Modifier name="stereo panner inverted" modifier="= alpha:0.7882"/>
     <Modifier name="stereo panner inverted bg" modifier="= alpha:0.7529"/>
-    <Modifier name="time axis view item base" modifier="= alpha:0.7"/>
+    <Modifier name="time axis view item base" modifier="= alpha:1.0"/>
     <Modifier name="transparent region base" modifier="= alpha:0.6"/>
     <Modifier name="time stretch fill" modifier="= alpha:0.5"/>
     <Modifier name="verbose canvas cursor" modifier="= alpha:0.4666"/>
