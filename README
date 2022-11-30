@@ -6,7 +6,7 @@ Copy Ardour-*splash.png in ~/.config/ardour7/resourcess/
 
 Select "arc" in Settings > Colors > Color scheme.
 I recommend enabling flat and square buttons options.
-
+Restart ardour after selecting the color scheme.
 
 **Modify**
 
