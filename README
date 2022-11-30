@@ -1,0 +1,7 @@
+**Install**
+
+Copy arc-ardour.colors in ~/.config/ardour7/themes/
+
+**Modify**
+
+Edit arc-ardour.colors.in & arc-ardour.py, and run python3 arc-ardour.py
