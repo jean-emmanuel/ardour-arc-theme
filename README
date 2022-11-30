@@ -2,6 +2,9 @@
 
 Copy arc-ardour.colors in ~/.config/ardour7/themes/
 
+Copy Ardour-*splash.png in ~/.config/ardour7/resourcess/
+
+
 **Modify**
 
 Edit arc-ardour.colors.in & arc-ardour.py, and run python3 arc-ardour.py
