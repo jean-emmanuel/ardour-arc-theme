@@ -2,6 +2,10 @@
 <Ardour theme-name="arc">
   <Colors>
 
+    <Color name="arc-transparent" value="00000000"/>
+    <Color name="arc-black" value="000000ff"/>
+    <Color name="arc-white" value="ffffffff"/>
+
     <Color name="arc-background-dark" value="171a1dff"/>
     <Color name="arc-background" value="2E3440ff"/>
     <Color name="arc-background-light" value="3B4252ff"/>
@@ -319,9 +323,9 @@
     <ColorAlias name="patch change button unnamed: fill active" alias="arc-blue"/>
     <ColorAlias name="patch change button: fill" alias="arc-background-light"/>
     <ColorAlias name="patch change button: fill active" alias="arc-blue"/>
-    <ColorAlias name="piano roll black" alias="arc-blue"/>
-    <ColorAlias name="piano roll black outline" alias="arc-foreground"/>
-    <ColorAlias name="piano roll white" alias="arc-foreground"/>
+    <ColorAlias name="piano roll black" alias="arc-black"/>
+    <ColorAlias name="piano roll black outline" alias="arc-foreground-dark"/>
+    <ColorAlias name="piano roll white" alias="arc-white"/>
     <ColorAlias name="pinrouting custom: led active" alias="arc-red-dark"/>
     <ColorAlias name="pinrouting sidechain: led active" alias="arc-green"/>
     <ColorAlias name="play head" alias="arc-red"/>
@@ -526,10 +530,10 @@
     <Modifier name="opaque region base" modifier="= alpha:1.0"/>
     <Modifier name="panner fill" modifier="= alpha:0.7882"/>
     <Modifier name="piano roll black" modifier="= alpha:0.2"/>
-    <Modifier name="piano roll white" modifier="= alpha:0.2"/>
+    <Modifier name="piano roll white" modifier="= alpha:0.05"/>
     <Modifier name="recording rect" modifier="= alpha:0.25"/>
     <Modifier name="selected midi note" modifier="= alpha:0.7529"/>
-    <Modifier name="selection rect" modifier="= alpha:0.4666"/>
+    <Modifier name="selection rect" modifier="= alpha:0.4"/>
     <Modifier name="silence" modifier="= alpha:0.4784"/>
     <Modifier name="stereo panner inverted" modifier="= alpha:0.7882"/>
     <Modifier name="stereo panner inverted bg" modifier="= alpha:0.7529"/>
