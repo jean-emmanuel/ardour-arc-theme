@@ -11,7 +11,3 @@ Recommended appearance settings:
 - flat and square buttons
 - no shade on regians
 - small space under regions
-
-**Modify**
-
-Edit arc-ardour.colors.in & arc-ardour.py, and run python3 arc-ardour.py
