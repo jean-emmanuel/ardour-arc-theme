@@ -303,7 +303,7 @@
     <ColorAlias name="mono panner position outline" alias="arc-background"/>
     <ColorAlias name="mono panner text" alias="arc-background-dark"/>
     <ColorAlias name="mouse mode button: fill" alias="arc-background-light"/>
-    <ColorAlias name="mouse mode button: fill active" alias="arc-green"/>
+    <ColorAlias name="mouse mode button: fill active" alias="arc-blue"/>
     <ColorAlias name="mouse mode button: led active" alias="arc-green"/>
     <ColorAlias name="mute button: fill" alias="arc-background-light"/>
     <ColorAlias name="mute button: fill active" alias="arc-yellow"/>
@@ -318,7 +318,7 @@
     <ColorAlias name="nudge clock: edited text" alias="arc-green"/>
     <ColorAlias name="nudge clock: text" alias="arc-green"/>
     <ColorAlias name="page switch button: fill" alias="arc-background-light"/>
-    <ColorAlias name="page switch button: fill active" alias="arc-green"/>
+    <ColorAlias name="page switch button: fill active" alias="arc-blue"/>
     <ColorAlias name="patch change button unnamed: fill" alias="arc-background-light"/>
     <ColorAlias name="patch change button unnamed: fill active" alias="arc-blue"/>
     <ColorAlias name="patch change button: fill" alias="arc-background-light"/>
@@ -368,7 +368,7 @@
     <ColorAlias name="range drag bar rect" alias="arc-foreground-dark"/>
     <ColorAlias name="range drag rect" alias="arc-red-dark"/>
     <ColorAlias name="range marker bar" alias="arc-background-light"/>
-    <ColorAlias name="record enable button: fill active" alias="arc-red-dark"/>
+    <ColorAlias name="record enable button: fill active" alias="arc-red"/>
     <ColorAlias name="record enable button: led active" alias="arc-red"/>
     <ColorAlias name="recording rect" alias="arc-red-dark"/>
     <ColorAlias name="recording note" alias="arc-foreground"/>
@@ -463,10 +463,10 @@
     <ColorAlias name="tracknumber label: fill active" alias="arc-background-light"/>
     <ColorAlias name="tracknumber label: led active" alias="arc-red"/>
     <ColorAlias name="transport active option button: fill" alias="arc-background-light"/>
-    <ColorAlias name="transport active option button: fill active" alias="arc-green"/>
+    <ColorAlias name="transport active option button: fill active" alias="arc-blue"/>
     <ColorAlias name="transport active option button: led active" alias="arc-green"/>
     <ColorAlias name="transport button: fill" alias="arc-background-light"/>
-    <ColorAlias name="transport button: fill active" alias="arc-green"/>
+    <ColorAlias name="transport button: fill active" alias="arc-blue"/>
     <ColorAlias name="transport button: led active" alias="arc-green"/>
     <ColorAlias name="transport clock: background" alias="arc-background-dark"/>
     <ColorAlias name="transport clock: cursor" alias="arc-green"/>
