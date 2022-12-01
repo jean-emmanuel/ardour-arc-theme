@@ -4,9 +4,13 @@ Copy arc-ardour.colors in ~/.config/ardour7/themes/
 
 Copy Ardour-*splash.png in ~/.config/ardour7/resourcess/
 
-Select "arc" in Settings > Colors > Color scheme.
-I recommend enabling flat and square buttons options.
-Restart ardour after selecting the color scheme.
+Select "arc" in Settings > Colors > Color scheme and restart ardour.
+
+Recommended appearance settings:
+
+- flat and square buttons
+- no shade on regians
+- small space under regions
 
 **Modify**
 
