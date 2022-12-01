@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ardour theme-name="arc">
   <Colors>
+      <Color name="transparent" value="00000000"/>
     <Color name="alert:blue" value="arc-blue"/>
     <Color name="alert:cyan" value="arc-cyan"/>
     <Color name="alert:green" value="arc-green"/>
@@ -503,7 +504,7 @@
     <Modifier name="midi sysex fill" modifier="= alpha:0.4666"/>
     <Modifier name="midi track base" modifier="= alpha:0.3"/>
     <Modifier name="mono panner position fill" modifier="= alpha:0.8"/>
-    <Modifier name="opaque region base" modifier="= alpha:2.0"/>
+    <Modifier name="opaque region base" modifier="= alpha:1.0"/>
     <Modifier name="panner fill" modifier="= alpha:0.7882"/>
     <Modifier name="piano roll black" modifier="= alpha:0.2"/>
     <Modifier name="piano roll white" modifier="= alpha:0.2"/>
