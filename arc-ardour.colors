@@ -334,6 +334,7 @@
     <ColorAlias name="pluginlist radio button: led active" alias="arc-cyan"/>
     <ColorAlias name="pluginui toggle: fill" alias="arc-background-light"/>
     <ColorAlias name="pluginui toggle: fill active" alias="arc-blue"/>
+    <ColorAlias name="preference highlight" alias="arc-yellow"/>
     <ColorAlias name="processor automation line" alias="arc-background"/>
     <ColorAlias name="processor auxfeedback: fill" alias="arc-green"/>
     <ColorAlias name="processor auxfeedback: led active" alias="arc-green"/>
@@ -519,7 +520,6 @@
     <Modifier name="loop rectangle" modifier="= alpha:0.5"/>
     <Modifier name="marker bar" modifier="= alpha:0.5"/>
     <Modifier name="grid line" modifier="= alpha:0.6"/>
-    <Modifier name="midi frame base" modifier="= alpha:0.75"/>
     <Modifier name="midi note" modifier="= alpha:1.0"/>
     <Modifier name="midi note velocity text" modifier="= alpha:0.4666"/>
     <Modifier name="midi patch change fill" modifier="= alpha:0.6274"/>
