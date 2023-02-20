@@ -2,7 +2,7 @@
 
 Copy arc-ardour.colors in ~/.config/ardour7/themes/
 
-Copy Ardour-*splash.png in ~/.config/ardour7/resourcess/
+Copy Ardour-*splash.png in ~/.config/ardour7/resources/
 
 Select "arc" in Settings > Colors > Color scheme and restart ardour.
 
