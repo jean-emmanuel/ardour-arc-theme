@@ -406,7 +406,7 @@
     <ColorAlias name="selected region base" alias="arc-red-dark"/>
     <ColorAlias name="selected time axis frame" alias="arc-red-dark"/>
     <ColorAlias name="selected waveform fill" alias="arc-foreground-light"/>
-    <ColorAlias name="selected waveform outline" alias="arc-foreground-light"/>
+    <ColorAlias name="selected waveform outline" alias="arc-background-dark"/>
     <ColorAlias name="selection" alias="arc-red"/>
     <ColorAlias name="selection clock: background" alias="arc-background-dark"/>
     <ColorAlias name="selection clock: cursor" alias="arc-red-dark"/>
@@ -521,7 +521,6 @@
     <Modifier name="loop rectangle" modifier="= alpha:0.5"/>
     <Modifier name="marker bar" modifier="= alpha:0.5"/>
     <Modifier name="grid line" modifier="= alpha:0.6"/>
-    <Modifier name="midi frame base" modifier="= alpha:0.75"/>
     <Modifier name="midi note" modifier="= alpha:1.0"/>
     <Modifier name="midi note velocity text" modifier="= alpha:0.4666"/>
     <Modifier name="midi patch change fill" modifier="= alpha:0.6274"/>
