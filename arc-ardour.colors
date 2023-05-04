@@ -207,6 +207,7 @@
     <ColorAlias name="lock button: fill active" alias="arc-background-light"/>
     <ColorAlias name="lock button: led active" alias="arc-red"/>
     <ColorAlias name="lua action button: fill" alias="arc-background-light"/>
+    <ColorAlias name="mapping bar" alias="arc-background-light"/>
     <ColorAlias name="marker bar" alias="arc-background-light"/>
     <ColorAlias name="marker bar separator" alias="arc-background-dark"/>
     <ColorAlias name="marker drag line" alias="arc-green"/>
@@ -334,6 +335,7 @@
     <ColorAlias name="pluginlist radio button: led active" alias="arc-cyan"/>
     <ColorAlias name="pluginui toggle: fill" alias="arc-background-light"/>
     <ColorAlias name="pluginui toggle: fill active" alias="arc-blue"/>
+    <ColorAlias name="preference highlight" alias="arc-yellow"/>
     <ColorAlias name="processor automation line" alias="arc-background"/>
     <ColorAlias name="processor auxfeedback: fill" alias="arc-green"/>
     <ColorAlias name="processor auxfeedback: led active" alias="arc-green"/>
