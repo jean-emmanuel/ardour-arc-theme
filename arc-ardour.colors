@@ -513,7 +513,7 @@
     <ColorAlias name="vca assign button: fill" alias="arc-background-light"/>
     <ColorAlias name="verbose canvas cursor" alias="arc-green"/>
     <ColorAlias name="video timeline bar" alias="arc-background-light"/>
-    <ColorAlias name="waveform fill" alias="arc-foreground-light"/>
+    <ColorAlias name="waveform fill" alias="arc-white"/>
     <ColorAlias name="waveform outline" alias="arc-background-dark"/>
     <ColorAlias name="zero line" alias="arc-background-light"/>
     <ColorAlias name="zoom button: fill" alias="arc-background-light"/>
