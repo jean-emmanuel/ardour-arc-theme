@@ -26,7 +26,7 @@
     <Color name="arc-blue-dark" value="445d7bff"/>
     <Color name="arc-blue-light" value="6a92c3ff"/>
     <Color name="arc-cyan" value="88C0D0ff"/>
-    <Color name="arc-gray" value="f57980ff"/>
+    <Color name="arc-gray" value="aaaaaaff"/>
     <Color name="arc-undef" value="ff00ffff"/>
 
 
@@ -147,6 +147,7 @@
     <ColorAlias name="generic button: fill" alias="arc-background-light"/>
     <ColorAlias name="generic button: fill active" alias="arc-red"/>
     <ColorAlias name="generic button: led active" alias="arc-green"/>
+    <ColorAlias name="generic button: outline" alias="arc-background-dark"/>
     <ColorAlias name="ghost track base" alias="arc-background-light"/>
     <ColorAlias name="ghost track midi outline" alias="arc-background-dark"/>
     <ColorAlias name="ghost track wave" alias="arc-background-dark"/>
@@ -165,7 +166,7 @@
     <ColorAlias name="gtk_bg_selected" alias="arc-blue"/>
     <ColorAlias name="gtk_bg_tooltip" alias="arc-background-dark"/>
     <ColorAlias name="gtk_bright_color" alias="arc-blue"/>
-    <ColorAlias name="gtk_bright_indicator" alias="arc-red"/>
+    <ColorAlias name="gtk_bright_indicator" alias="arc-gray"/>
     <ColorAlias name="gtk_clip_indicator" alias="arc-red"/>
     <ColorAlias name="gtk_contrasting_indicator" alias="arc-green"/>
     <ColorAlias name="gtk_control_master" alias="arc-background"/>
@@ -198,7 +199,7 @@
     <ColorAlias name="gtk_somewhat_bright_indicator" alias="arc-green"/>
     <ColorAlias name="gtk_texts" alias="arc-foreground-light"/>
     <ColorAlias name="gtk_track_header_inactive" alias="arc-background"/>
-    <ColorAlias name="gtk_track_header_selected" alias="arc-red"/>
+    <ColorAlias name="gtk_track_header_selected" alias="arc-blue"/>
     <ColorAlias name="image track" alias="arc-foreground"/>
     <ColorAlias name="inactive crossfade" alias="arc-red"/>
     <ColorAlias name="inactive fade handle" alias="arc-foreground"/>
