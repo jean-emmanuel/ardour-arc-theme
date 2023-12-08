@@ -1,13 +1,15 @@
 **Install**
 
-Copy arc-ardour.colors in ~/.config/ardour7/themes/
+Copy arc-ardour.colors in ~/.config/ardour8/themes/
 
-Copy Ardour-*splash.png in ~/.config/ardour7/resources/
+Copy Ardour-*splash.png in ~/.config/ardour8/resources/
 
 Select "arc" in Settings > Colors > Color scheme and restart ardour.
+Switching back to a different theme will require restarting ardour (this is due to how color aliases are handled in this theme).
 
 Recommended appearance settings:
 
 - flat and square buttons
-- no shade on regians
-- small space under regions
+- no shade on regions
+- no space under regions
+- if "use colors to show midi note velocity" in not set, make sure to give MIDI tracks a bright and saturated color to make MIDI editing comfortable.
