@@ -164,7 +164,7 @@
     <ColorAlias name="gtk_background" alias="arc-background"/>
     <ColorAlias name="gtk_bases" alias="arc-background-dark"/>
     <ColorAlias name="gtk_bg_selected" alias="arc-blue"/>
-    <ColorAlias name="gtk_bg_tooltip" alias="arc-background-dark"/>
+    <ColorAlias name="gtk_bg_tooltip" alias="arc-foreground-light"/>
     <ColorAlias name="gtk_bright_color" alias="arc-blue"/>
     <ColorAlias name="gtk_bright_indicator" alias="arc-gray"/>
     <ColorAlias name="gtk_clip_indicator" alias="arc-red"/>
@@ -175,7 +175,7 @@
     <ColorAlias name="gtk_darkest" alias="arc-background-dark"/>
     <ColorAlias name="gtk_entry_cursor" alias="arc-red"/>
     <ColorAlias name="gtk_fg_selected" alias="arc-background-dark"/>
-    <ColorAlias name="gtk_fg_tooltip" alias="arc-foreground-light"/>
+    <ColorAlias name="gtk_fg_tooltip" alias="arc-background-dark"/>
     <ColorAlias name="gtk_foldback_bg" alias="arc-background"/>
     <ColorAlias name="gtk_foreground" alias="arc-foreground-light"/>
     <ColorAlias name="gtk_light_text_on_dark" alias="arc-foreground"/>
