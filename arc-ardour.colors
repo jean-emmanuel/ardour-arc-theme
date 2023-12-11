@@ -11,6 +11,7 @@
     <Color name="arc-background-light" value="3B4252ff"/>
     <Color name="arc-background-blue" value="263242ff"/>
     <Color name="arc-background-green" value="395052ff"/>
+    <Color name="arc-background-teal" value="354555ff"/>
 
     <Color name="arc-foreground-light" value="D8DEE9ff"/>
     <Color name="arc-foreground" value="9ea2abff"/>
@@ -181,7 +182,7 @@
     <ColorAlias name="gtk_light_text_on_dark" alias="arc-foreground"/>
     <ColorAlias name="gtk_lightest" alias="arc-foreground"/>
     <ColorAlias name="gtk_midi_channel_selector" alias="arc-blue"/>
-    <ColorAlias name="gtk_midi_track" alias="arc-background-green"/>
+    <ColorAlias name="gtk_midi_track" alias="arc-background-teal"/>
     <ColorAlias name="gtk_monitor" alias="arc-orange"/>
     <ColorAlias name="gtk_mono" alias="arc-foreground-light"/>
     <ColorAlias name="gtk_mute" alias="arc-yellow"/>
@@ -280,7 +281,7 @@
     <ColorAlias name="midi select rect outline" alias="arc-red"/>
     <ColorAlias name="midi sysex fill" alias="arc-red"/>
     <ColorAlias name="midi sysex outline" alias="arc-green"/>
-    <ColorAlias name="midi track base" alias="arc-background-green"/>
+    <ColorAlias name="midi track base" alias="arc-background-teal"/>
     <ColorAlias name="mixer strip button: fill" alias="arc-background-light"/>
     <ColorAlias name="mixer strip button: fill active" alias="arc-orange"/>
     <ColorAlias name="mixer strip button: led active" alias="arc-green"/>
