@@ -128,6 +128,7 @@
     <ColorAlias name="entered automation line" alias="arc-orange"/>
     <ColorAlias name="entered gain line" alias="arc-orange"/>
     <ColorAlias name="entered marker" alias="arc-orange"/>
+    <ColorAlias name="fader outline" alias="arc-background-dark"/>
     <ColorAlias name="feedback alert: alt active" alias="arc-red-dark"/>
     <ColorAlias name="feedback alert: fill" alias="arc-background-light"/>
     <ColorAlias name="feedback alert: fill active" alias="arc-red"/>
@@ -237,6 +238,7 @@
     <ColorAlias name="meter color BBC" alias="arc-orange"/>
     <ColorAlias name="meter marker" alias="arc-orange"/>
     <ColorAlias name="meter marker music" alias="arc-orange"/>
+    <ColorAlias name="meter outline" alias="arc-background-dark"/>
     <ColorAlias name="meterbridge label: fill" alias="arc-background"/>
     <ColorAlias name="meterbridge label: fill active" alias="arc-background-light"/>
     <ColorAlias name="meterbridge label: led" alias="arc-red"/>
