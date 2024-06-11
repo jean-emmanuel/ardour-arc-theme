@@ -354,7 +354,7 @@
     <ColorAlias name="pluginui toggle: fill" alias="arc-background-light"/>
     <ColorAlias name="pluginui toggle: fill active" alias="arc-blue"/>
     <ColorAlias name="preference highlight" alias="arc-yellow"/>
-    <ColorAlias name="processor automation line" alias="arc-background"/>
+    <ColorAlias name="processor automation line" alias="arc-green"/>
     <ColorAlias name="processor auxfeedback: fill" alias="arc-green"/>
     <ColorAlias name="processor auxfeedback: led active" alias="arc-green"/>
     <ColorAlias name="processor control button: fill" alias="arc-background-dark"/>
@@ -393,6 +393,7 @@
     <ColorAlias name="recording note" alias="arc-foreground"/>
     <ColorAlias name="recording waveform fill" alias="arc-foreground"/>
     <ColorAlias name="recording waveform outline" alias="arc-background-light"/>
+    <ColorAlias name="region automation line" alias="arc-blue"/>
     <ColorAlias name="region list automatic" alias="arc-blue"/>
     <ColorAlias name="region list missing source" alias="arc-red"/>
     <ColorAlias name="region list whole file" alias="arc-foreground-light"/>
