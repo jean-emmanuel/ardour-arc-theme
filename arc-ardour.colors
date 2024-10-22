@@ -212,12 +212,12 @@
     <ColorAlias name="latency button: fill" alias="arc-background-light"/>
     <ColorAlias name="latency button: fill active" alias="arc-red-dark"/>
     <ColorAlias name="latency button: led active" alias="arc-red-dark"/>
+    <ColorAlias name="location arrangement marker" alias="arc-green"/>
     <ColorAlias name="location cd marker" alias="arc-blue"/>
     <ColorAlias name="location loop" alias="arc-blue"/>
     <ColorAlias name="location marker" alias="arc-blue"/>
     <ColorAlias name="location punch" alias="arc-red-dark"/>
     <ColorAlias name="location range" alias="arc-green"/>
-    <ColorAlias name="location arrangement marker" alias="arc-green"/>
     <ColorAlias name="lock button: fill active" alias="arc-background-light"/>
     <ColorAlias name="lock button: led active" alias="arc-red"/>
     <ColorAlias name="lua action button: fill" alias="arc-background-light"/>
@@ -334,16 +334,19 @@
     <ColorAlias name="nudge clock: text" alias="arc-green"/>
     <ColorAlias name="page switch button: fill" alias="arc-background-light"/>
     <ColorAlias name="page switch button: fill active" alias="arc-blue"/>
+    <ColorAlias name="pan knob" alias="arc-background-light"/>
+    <ColorAlias name="pan knob: arc end" alias="arc-orange"/>
+    <ColorAlias name="pan knob: arc start" alias="arc-orange"/>
     <ColorAlias name="patch change button unnamed: fill" alias="arc-background-light"/>
     <ColorAlias name="patch change button unnamed: fill active" alias="arc-blue"/>
     <ColorAlias name="patch change button: fill" alias="arc-background-light"/>
     <ColorAlias name="patch change button: fill active" alias="arc-blue"/>
-    <ColorAlias name="piano roll black" alias="arc-black"/>
-    <ColorAlias name="piano roll black outline" alias="arc-foreground-dark"/>
-    <ColorAlias name="piano roll white" alias="arc-white"/>
     <ColorAlias name="piano key black" alias="arc-background-dark"/>
     <ColorAlias name="piano key white" alias="arc-foreground-light"/>
     <ColorAlias name="piano key highlight" alias="arc-red-dark"/>
+    <ColorAlias name="piano roll black" alias="arc-black"/>
+    <ColorAlias name="piano roll black outline" alias="arc-foreground-dark"/>
+    <ColorAlias name="piano roll white" alias="arc-white"/>
     <ColorAlias name="pinrouting custom: led active" alias="arc-red-dark"/>
     <ColorAlias name="pinrouting sidechain: led active" alias="arc-green"/>
     <ColorAlias name="play head" alias="arc-red"/>
@@ -389,14 +392,15 @@
     <ColorAlias name="range marker bar" alias="arc-background-light"/>
     <ColorAlias name="record enable button: fill active" alias="arc-red"/>
     <ColorAlias name="record enable button: led active" alias="arc-red"/>
-    <ColorAlias name="recording rect" alias="arc-red-dark"/>
     <ColorAlias name="recording note" alias="arc-foreground"/>
+    <ColorAlias name="recording rect" alias="arc-red-dark"/>
     <ColorAlias name="recording waveform fill" alias="arc-foreground"/>
     <ColorAlias name="recording waveform outline" alias="arc-background-light"/>
     <ColorAlias name="region automation line" alias="arc-blue"/>
     <ColorAlias name="region list automatic" alias="arc-blue"/>
     <ColorAlias name="region list missing source" alias="arc-red"/>
     <ColorAlias name="region list whole file" alias="arc-foreground-light"/>
+    <ColorAlias name="region mark" alias="arc-green"/>
     <ColorAlias name="route button: fill" alias="arc-background-light"/>
     <ColorAlias name="route button: fill active" alias="arc-background-dark"/>
     <ColorAlias name="route button: led active" alias="arc-green"/>
@@ -440,8 +444,6 @@
     <ColorAlias name="send pan" alias="arc-green"/>
     <ColorAlias name="shuttle" alias="arc-background-light"/>
     <ColorAlias name="shuttle bg" alias="arc-background-dark"/>
-    <ColorAlias name="vari button: fill" alias="arc-background-light"/>
-    <ColorAlias name="vari button: fill active" alias="arc-red-dark"/>
     <ColorAlias name="silence" alias="arc-green"/>
     <ColorAlias name="silence text" alias="arc-foreground-light"/>
     <ColorAlias name="solo button: fill" alias="arc-background-light"/>
@@ -471,7 +473,6 @@
     <ColorAlias name="stretch clock: edited text" alias="arc-green"/>
     <ColorAlias name="stretch clock: text" alias="arc-green"/>
     <ColorAlias name="sync mark" alias="arc-green"/>
-    <ColorAlias name="region mark" alias="arc-green"/>
     <ColorAlias name="tempo bar" alias="arc-background-light"/>
     <ColorAlias name="tempo curve" alias="arc-blue"/>
     <ColorAlias name="tempo marker" alias="arc-orange"/>
@@ -512,9 +513,8 @@
     <ColorAlias name="trim knob" alias="arc-background-light"/>
     <ColorAlias name="trim knob: arc end" alias="arc-blue"/>
     <ColorAlias name="trim knob: arc start" alias="arc-blue"/>
-    <ColorAlias name="pan knob" alias="arc-background-light"/>
-    <ColorAlias name="pan knob: arc end" alias="arc-orange"/>
-    <ColorAlias name="pan knob: arc start" alias="arc-orange"/>
+    <ColorAlias name="vari button: fill" alias="arc-background-light"/>
+    <ColorAlias name="vari button: fill active" alias="arc-red-dark"/>
     <ColorAlias name="vca assign button: fill" alias="arc-background-light"/>
     <ColorAlias name="verbose canvas cursor" alias="arc-green"/>
     <ColorAlias name="video timeline bar" alias="arc-background-light"/>
